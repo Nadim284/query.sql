@@ -239,12 +239,11 @@ After completing this assignment, students will be able to:
 # Technologies Used
 
 * PostgreSQL
-* SQL
-* pgAdmin (Optional)
+* Beekeeper Studio
 
 ---
 
 # Author
 
 Football Ticket Booking System Database Assignment
-Software Engineering / Database Management Systems
+
